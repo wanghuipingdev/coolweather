@@ -1,0 +1,7 @@
+https://console.heweather.com/my/service
+和风天气接口
+
+普通用户 更改
+用户ID: HE1804261014591624
+暂时还没有购买服务     购买
+认证key：71549bcc187741edbf8c8e78fd7543a3      修改 每月只能修改一次
